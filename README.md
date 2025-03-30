@@ -56,6 +56,7 @@ AtliQ Hardwares is a consumer electronics company that is rapidly expanding, but
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
-🔗 Download Power BI File :https://drive.google.com/file/d/1gb-wUS7a79dX1UqcxhHE6MTR-tvEGf_u/view?usp=drive_link
+📥 **Download Power BI File:** [Click Here](https://drive.google.com/file/d/1gb-wUS7a79dX1UqcxhHE6MTR-tvEGf_u/view?usp=drive_link)
+
 
 
